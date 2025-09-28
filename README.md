@@ -5,6 +5,7 @@ This project was created as a school project in March 2024.
 
 # Features
 • Get the latest timetable for your classes.
+
 • Easy and fast access to the school schedule via Telegram.
 
 # Usage
